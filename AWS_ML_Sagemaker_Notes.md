@@ -39,20 +39,20 @@ Using a library such as **datawig** python library, a deep leanring approach use
 
 6. Amazon has an Elastic Container Repository that has containers for each algorithms.
 
-    <imgage src="./images/ECR.png">
+    <image src="./images/ECR.png">
 
 6. Amaxon fetch the proper image and spin up inside Sagemaker space. Then the job can access the data on S3.
 
-    <imgage src="./images/ECR_train.png">
+    <image src="./images/ECR_train.png">
 
 7. We can also specify our own docker file. API Gateway allow us to use REST calls on our hosted program.
 
-    <imgage src="./images/ECR_Docker_Train.png">
-    <imgage src="./images/ECR_Docker_Host.png">
+    <image src="./images/ECR_Docker_Train.png">
+    <image src="./images/ECR_Docker_Host.png">
 
 8. Training with Apache Spark
 
-    <imgage src="./images/Sagemaker_Spark.png">
+    <image src="./images/Sagemaker_Spark.png">
 
 9. **:1 vs :latest container tags** Algorithms that are parallelizable can be deployed on multiple compute instances for distributed training. For the Training image and Inference Image Registry Path column, use the :1 version tag to ensure that you are using a stable version of the algorithm. You can reliably host a model trained using an image with the :1 tag on an inference image that has the :1 tag. Using the :latest tag in the registry path provides you with the most up-to-date version of the algorithm, but might cause problems with backward compatibility. Avoid using the :latest tag for production purposes.
     
@@ -75,9 +75,10 @@ provide an interface to farm out tasks for human beings to complete
 
 ##### Confusion Matrix
 
-<imgage src="./images/Confusion_Matrix.png">
+<image src="./images/Confusion_Matrix.png">
 
 Precision = TP / (TP + FP)  or True Positive / Predicted Results
+
 Recall = TP / (TP + FN) or True Positive / Actual Results
 
 1. Precision is how certain you are of your true positives. Recall is how certain you are that you are not missing any positives.
@@ -100,13 +101,15 @@ Recall = TP / (TP + FN) or True Positive / Actual Results
 
 1. Arima
 2. Prophet
-3. DeepAR - 
+3. DeepAR
 4. DeepAR+
 
 ### Other Sagemaker Services
 
-#### AWS Comprehend 
+#### AWS Comprehend
+
 NLP and Text Analytics
+
 Used to extract sentiment
 
 #### Amazon Translate 
