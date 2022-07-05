@@ -9,8 +9,9 @@
 
 ## Resources
 
-1. Udemy Cource by Stephan Marek and Franke Kane
+1. Udemy Course by Stephane Maarek and Frank Kane
 https://www.udemy.com/course/aws-machine-learning/
+- [Udemy AWS ML Slides](Udemy/AWSCertifiedMLSlides.pdf)
 
 2. Whizlab
 https://www.whizlabs.com/learn/course/aws-certified-machine-learning-specialty/281
@@ -20,10 +21,19 @@ https://www.whizlabs.com/learn/course/aws-certified-machine-learning-specialty/2
 https://github.com/FabG/ml-aws-specialty-lab
 
 
+4. My Cheat Sheet
+    - [General ML Notes](General_ML_Notes.md)
+    - [AWS ML Cheatsheet](AWS_ML_CheatSheet.md)
+
+
+5. **Others**
+
+    - [AWS Training and Certification](https://www.aws.training/) - this is where you can take the free quiz
+    - [Amazon SageMaker Developer guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf)
 
 ## Practice Exams
 
-## Module quiz
+### Module quiz
  - [whizlabs Core ML Concepts exam](whizlabs/PracticeExams/Core_Concepts_quiz.pdf)
  - [whizlabs Data Engineering exam](whizlabs/PracticeExams/Data_Engineering_quiz.pdf)
  - [whizlabs EDA exam](whizlabs/PracticeExams/EDA_quiz.pdf)
@@ -39,3 +49,5 @@ https://github.com/FabG/ml-aws-specialty-lab
 
 
 ## My Certificate
+
+ ![ml-specialty-certificate](Certificate/AWS%20Certified%20Machine%20Learning%20-%20Specialty%20certificate.pdf)
