@@ -1,4 +1,4 @@
-# AWS Certified Machine Leanring Certificate 2022
+# AWS Certified Machine Learning Certificate 2022
 
  This repo includes various resources and practice examls that helped me pass the AWS ML Specialty certification in **2022**.
 ## Resources
