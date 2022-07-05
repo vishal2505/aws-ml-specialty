@@ -1,6 +1,11 @@
 # AWS Certified Machine Learning Certificate 2022
 
  This repo includes various resources and practice examls that helped me pass the AWS ML Specialty certification in **2022**.
+
+ Here is my badge.
+
+ ![ml-specialty-image](Certificate/aws-certified-machine-learning-specialty.png)
+
 ## Resources
 
 1. Udemy Cource by Stephan Marek and Franke Kane
