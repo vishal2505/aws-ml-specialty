@@ -1,6 +1,6 @@
 # AWS Certified Machine Learning Certificate 2022
 
- This repo includes various resources and practice examls that helped me pass the AWS ML Specialty certification in **2022**.
+ This repo includes various resources and practice exams that helped me pass the AWS ML Specialty certification in **2022**.
 
  I passed this exam on 02/07/2022 with score of 818 / 1000 or 81.8%. The passing score is 75%.
  
